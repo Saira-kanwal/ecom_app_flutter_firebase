@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298352581096",
+    "project_id": "auth-screens-f835b",
+    "storage_bucket": "auth-screens-f835b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298352581096:android:1da8e381c22a47954d6c5d",
+        "android_client_info": {
+          "package_name": "com.example.auth_screens_flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGnYUeZeUjNa17VIpztqo01ZFCohyhiAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
